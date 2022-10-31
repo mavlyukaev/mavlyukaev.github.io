@@ -57,18 +57,18 @@
 
 .content{
     max-width: 960px;
-    background-color: rgb(206, 234, 236);
+    background-color: rgb(183, 234, 232);
     margin: 0 auto;
     margin-top: 20px;
     padding: 10px;
 }
 
 .ne_chet{
-    background-color: rgb(197, 156, 236);
+    background-color: rgb(255, 117, 24);
 }
 
 .chet{
-    background-color: rgb(243, 125, 115);
+    background-color: rgb(227, 147, 248);
 }
 
 #footer{
