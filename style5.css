@@ -5,7 +5,12 @@ body {
   height: 300px;
   margin: 0 auto;
 }
-
+result {
+    max-width: 960px;
+    background-color: rgb(44, 214, 190);
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 10px;
 #main {
-background-color:	rgb(250, 110, 28);
+background-color: rgb(250, 110, 28);
 }
