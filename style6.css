@@ -1,12 +1,15 @@
-body{
-  max-width:600px;
-background-color:rgb(179,238,238);
+body {
+max-width:600px;
+background-color:rgb (44, 214, 190);
 text-align: center;
 height: 300px;
-margin: 0 auto;}
-#main{
-background-color:	rgb(65,105,225);
+margin: 0 auto;
 }
-#m2{
-background-color:	rgb(65,105,225);
+
+#main {
+background-color:	rgb (250, 110, 28);
+}
+
+#m2 {
+background-color:	rgb (250, 110, 28);
 }
